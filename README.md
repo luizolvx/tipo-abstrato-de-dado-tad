@@ -32,12 +32,6 @@ Demonstrar práticas de modularização, encapsulamento e uso de TAD em C, com f
 - Armazenamento do último resultado
 - Tratamento de erro para divisão por zero
 
-### Como compilar e executar
-```bash
-cd calculadora
-gcc -o calculadora main.c calc.c
-./calculadora
-
 Projeto 2: Pontos Cartesianos
 Funcionalidades
 
