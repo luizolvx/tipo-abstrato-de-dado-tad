@@ -32,32 +32,21 @@ Demonstrar práticas de modularização, encapsulamento e uso de TAD em C, com f
 - Armazenamento do último resultado
 - Tratamento de erro para divisão por zero
 
-Projeto 2: Pontos Cartesianos
+## Projeto 2: Pontos Cartesianos
 Funcionalidades
 
-Criação e liberação de pontos
+### Criação e liberação de pontos acesso e modificação de coordenadas
 
-Acesso e modificação de coordenadas
+### Cálculo de distância entre pontos
 
-Cálculo de distância entre pontos
-
-Tecnologias Utilizadas
-
-Linguagem C
-
-Compilador GCC
-
-Bibliotecas padrão: stdio.h, stdlib.h, math.h
-
-Conceitos Aplicados
-
-Tipos Abstratos de Dados (TAD)
-
-Alocação dinâmica de memória
-
-Encapsulamento com structs opacas
-
-Modularização de código
-
-Makefiles para compilação
+### Tecnologias Utilizadas
+- Linguagem C
+- Compilador GCC
+- Bibliotecas padrão: stdio.h, stdlib.h, math.h
+- Conceitos Aplicados
+- Tipos Abstratos de Dados (TAD)
+- Alocação dinâmica de memória
+- Encapsulamento com structs opacas
+- Modularização de código
+- Makefiles para compilação
 
