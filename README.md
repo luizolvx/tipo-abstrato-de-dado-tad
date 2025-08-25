@@ -33,11 +33,9 @@ Demonstrar práticas de modularização, encapsulamento e uso de TAD em C, com f
 - Tratamento de erro para divisão por zero
 
 ## Projeto 2: Pontos Cartesianos
-Funcionalidades
-
-### Criação e liberação de pontos acesso e modificação de coordenadas
-
-### Cálculo de distância entre pontos
+### Funcionalidades
+- Criação e liberação de pontos acesso e modificação de coordenadas
+- Cálculo de distância entre pontos
 
 ### Tecnologias Utilizadas
 - Linguagem C
